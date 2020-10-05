@@ -4,7 +4,7 @@
 
 | Platform | Description  |
 |:---------|:-----------|
-Zoom | **Mondays [13:15-15:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/96988744528)] |
+Zoom | **Mondays [13:15-15:00]**: Live Webinar, QnA, In-Lecture Quizzes [[lecture](https://epfl.zoom.us/j/96988744528), [lab](https://epfl.zoom.us/j/87286440833)] |
 Discord |  **Mondays [15:15-16:00]**: Exercise Session, Communication Hub [[link](https://discord.gg/rQ7cen3)] |
 SwitchTube | Recorded Lectures [[link](https://tube.switch.ch/channels/45c71cb4)]|
 Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/user/view.php?course=4051)]
@@ -18,9 +18,9 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/u
 | 14/09     | -           | Introduction                | Course Information - Overview [[slides][1p], [lab][1l]]         |
 | ~~21/09~~ | ~~~~        | ~~~~                        | ~~~~                                                            |
 | 28/09     | -           | Information Retrieval       | Basic Text Retrieval Models [[slides][2p], [lab][2l]]           |
-| 05/10     | -           |                             | Indexing and Probabilistic Retrieval <!--[[slides][3p], [lab][3l]]--> |
+| 05/10     | -           |                             | Indexing and Relevance Feedback [[slides][3p], [lab][3l]]       |
 | 12/10     | **Midterm** |                             | Advanced Retrieval Methods <!--[[slides][4p], [lab][4l]]--> |
-| 19/10     | -           |                             | Relevance Feedback and Link-based Retrieval <!--[[slides][5p], [lab][5l]]--> |
+| 19/10     | -           |                             | Word Embeddings and Link-based Retrieval <!--[[slides][5p], [lab][5l]]--> |
 | 26/10     | -           | Data Mining                 | Frequent Itemsets Mining <!--[[slides][6p], [lab][6l]]--> |
 | 02/11     | -           |                             | Clustering and Classification <!--[[slides][7p], [lab][7l]]--> |
 | 09/11     | **Quiz 1**  |                             | Classification Methodology <!--[[slides][8p], [lab][8l]]--> |
@@ -36,7 +36,7 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/u
 We will offer one programming midterm and two quizzes, which will be similar to questions you will find in the final exam. These intermediate exams **will not be graded**.
 
 Only the final exam will be graded. It will consist of multiple-choice questions, one theoretical question, and one programming task. Throughout the semester you will have examples of such questions and tasks in the weekly exercises. We also provide mock exams and quizzes from previous years:
-[2019 Poll Answers](Extras/2019-Polls), [2019 Midterm Exam](Extras/2019-Midterm), [2018 Quizzes](Extras/2018-Quizzes), [2018 Final Exam](Extras/2018-Final).
+[2019 Poll Answers](https://github.com/LSIR/DIS/blob/master/Extras/2019-Polls), [2019 Midterm Exam](https://github.com/LSIR/DIS/blob/master/Extras/2019-Midterm), [2018 Quizzes](https://github.com/LSIR/DIS/blob/master/Extras/2018-Quizzes), [2018 Final Exam](https://github.com/LSIR/DIS/blob/master/Extras/2018-Final).
 
 
 The exam will be performed online on your laptop, with Internet access. **No communication using messaging, social media, email, or similar tools is allowed**. You can use your notes or any materials from the lecture during the exam.
